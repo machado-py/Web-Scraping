@@ -1,7 +1,7 @@
 # Web-Scraping
 
 Treinando biblioteca scrapy.  
-O objetivo é extrair as notícias da primeira página de vários sites de notícias.  
+O objetivo é extrair informações dos links da primeira página de vários sites de notícias.  
 Atualmente são 5 spiders de sites diferentes.  
   
 O arquivo "runallspiders.py" , na pasta noticias/noticias, executa todos os spiders em sequência.  
